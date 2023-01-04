@@ -1,1 +1,2 @@
-# design
+# PoemWiki Design
+PoemWiki design files.
